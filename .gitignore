@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Debug log from npm
+npm-debug.log
+
+# Environment Variables should NEVER be published
+.env
+restaurantes-31842-firebase-adminsdk-q0k92-da4782fcda.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+*.lnk
+
+
+# VS Code
+.vscode/*
